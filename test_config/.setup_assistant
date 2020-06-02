@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: rozh_support
+    relative_path: urdf/rozh_model.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/rozh_model.srdf
+  CONFIG:
+    author_name: Df
+    author_email: Df@gmail.com
+    generated_timestamp: 1591073202
